@@ -1,0 +1,31 @@
+.container{
+    border: 2px solid black;
+    background-image: url(../sunrise.jpg);
+    width:200px;
+}
+
+.inp-text{
+    padding:12px;
+    border:1px solid red;
+    border-radius: 5%;
+    margin:5px;
+}
+.math-operator{
+    border-radius: 50%;
+    padding:10px;
+    background-color:aqua;
+    color:white;
+    margin:5px;
+}
+.math-operand{
+    border-radius: 50%;
+    background-color: black;
+    color:white;
+    padding:10px;
+    margin:5px;
+}
+#zero{
+    padding-left: 36px;
+    padding-right:35px;
+    border-radius: 50%;
+}
